@@ -1,4 +1,4 @@
-# SConnect PWA
+# SokoConnect PWA
 
 [![Built with TypeScript](https://img.shields.io/badge/built%20with-TypeScript-3178c6?style=flat-square)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/powered%20by-Vite-646cff?style=flat-square)](https://vitejs.dev/)
@@ -7,7 +7,7 @@
 
 ## Overview
 
-**SConnect PWA** is a modern, full-stack Progressive Web Application built with TypeScript and Vite. It provides a seamless customer experience for the SConnect ecosystem while offering a dedicated admin panel for operational workflows. The application is designed for scalability, with independent deployable components and support for multiple deployment targets (Docker, Netlify, Vercel).
+**SokoConnect PWA** is a modern, full-stack Progressive Web Application built with TypeScript and Vite. It provides a seamless customer experience for the SConnect ecosystem while offering a dedicated admin panel for operational workflows. The application is designed for scalability, with independent deployable components and support for multiple deployment targets (Docker, Netlify, Vercel).
 
 ### Key Features
 
